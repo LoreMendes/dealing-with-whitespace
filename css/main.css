@@ -11,7 +11,7 @@ html {
 }
 
 body {
-  margin: 0
+  margin: 0;
   color: #222;
   font-size: 1.125rem;
 }
@@ -19,30 +19,3 @@ body {
 header {
   border-bottom: 2px solid #999;
 }
-
-
-h1
-
-p
-
-
-
-- *Fork this repository.*
-- Add the correct typography properties to the content.
-- Only the following properties need to be added:
-  - `margin`
-  - `padding`
-  - `color`
-  - `font`
-  - `font-size`
-  - `font-weight`
-  - `font-style`
-  - `line-height`
-  - `border`
-
-- *Colours:* `#222`, `#555`, `#999`
-- *Typefaces:* `Crimson Text` (regular, italic)
-- *Font-sizes:* `1.5rem`, `1.125rem`
-
-- **For the best vertical rhythm:** remove the top margins from things & add bottom margins equal to the line-height.
-- **Border-sizes:* `2px`
