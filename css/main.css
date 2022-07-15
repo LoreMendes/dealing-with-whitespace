@@ -1,0 +1,38 @@
+html {
+  box-sizing: border-box;
+}
+
+*, *::before, *::after {
+  box-sizing: inherit;
+}
+
+body {
+  font-family: "Crimson Text";
+  color: #555;
+  font-size: 1.125rem;
+  line-height: 1.3rem;
+  padding-left: 1rem;
+  padding-right: 1rem;
+}
+
+- *Fork this repository.*
+- Add the correct typography properties to the content.
+- Only the following properties need to be added:
+  - `margin`
+  - `padding`
+  - `color`
+  - `font`
+  - `font-size`
+  - `font-weight`
+  - `font-style`
+  - `line-height`
+  - `border`
+
+- *Colours:* `#222`, `#555`, `#999`
+- *Typefaces:* `Crimson Text` (regular, italic)
+- *Font-sizes:* `1.5rem`, `1.125rem`
+- *Line-heights:* `1.3`
+- *Left/right text padding:* `1rem`
+- **Other margins & paddings intentionally not specififed.**
+- **For the best vertical rhythm:** remove the top margins from things & add bottom margins equal to the line-height.
+- **Border-sizes:* `2px`
